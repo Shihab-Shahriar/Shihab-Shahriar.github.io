@@ -49,11 +49,12 @@ Still, it's just one benchmark. I'm sure there are other hardware-software combi
 
 ## Final Thoughts
 
-A thought occurred to me recently, you can almost put a dollar amount to the value of cuda now. It's a bit silly, but humour me: let's take the value of AI riches that went almost exclusively to Nvidia since the ChatGPT shockwave (say around 700B USD), and let's assume Cuda is responsible for x% of it. Here's the thing: no matter how low you think that x is (within reason), it's going to be an astronomical sum! I'm sure this math didn't escape AMD.
+A thought occurred to me recently, you can almost put a dollar amount to the value of cuda now. It may sound a bit whimsical, but bear with me: let's estimate the value of AI riches that went almost exclusively to Nvidia since the ChatGPT phenomenon (say around 700B USD), and let's assume Cuda is responsible for x% of it. Here's the thing: no matter how low you think that x is (within reason), it's going to be an astronomical sum! I'm sure the math didn't escape AMD, as they watched it all unfolding from sideline.
 
 Many assumed this will be a big wake-up call for AMD, their [Carthage must be destroyed](https://www.vanityfair.com/news/2016/06/how-mark-zuckerberg-led-facebooks-war-to-crush-google-plus) moment that radically alters their well-known laid-back attitude to software. There are hints of this shift in their recent events and press releases, and I hope this trend continues.
 
-But in my little corner of GPGPU world, I'm yet to see any meaningful movement in that regard. As I wrote this article, I took a cursory glance at Intel's [documentation](https://spec.oneapi.io/versions/1.2-rev-1/elements/oneMKL/source/domains/rng/onemkl-rng-overview.html) for SYCL (a competitor of HIP) on this topic- a clean, well-organized, professional site- as you'd expect. 
+
+But in my little corner of HPC world, I’m yet to see any meaningful movement in that regard. And AMD needs to hurry up- as I wrote this article, I took a cursory glance at Intel’s [documentation](https://spec.oneapi.io/versions/1.2-rev-1/elements/oneMKL/source/domains/rng/onemkl-rng-overview.html)  for SYCL (a competitor of HIP) on this topic- a clean, well-organized, professional site- as you’d expect.
 
 Like many, I’m looking forward to a real showdown in the GPGPU space someday- I'm just not sure that will necessarily be between Nvidia and AMD. 
 
