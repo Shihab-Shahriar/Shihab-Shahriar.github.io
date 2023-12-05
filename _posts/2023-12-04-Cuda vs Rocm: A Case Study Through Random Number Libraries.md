@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Cuda Vs ROCm: A Case Study"
-date: 2020-09-14 21:01:00
+title:  "CUDA vs ROCm: A Case Study"
+date: 2023-12-05 17:01:00
 tags: HPC GPGPU C++
-thumbnail: assets/img/9.jpg
 ---
 
 How far along is AMD's ROCm in catching up to Cuda? AMD has been on this race for a while now, with ROCm debuting 7 years ago. Answering this question is a bit tricky though. CUDA isn’t a single piece of software—it’s an entire ecosystem spanning compilers, libraries, tools, documentation, Stack Overflow/forum answers, etc. Today, I’m going to zoom in on a particular slice of these vast ecosystems, that hopefully sheds some light on the current state-of-affairs of the broader landscape. That component today will be the random number libraries: cuRAND and rocRAND, part of the suite of around ten libraries that come standard on both systems.

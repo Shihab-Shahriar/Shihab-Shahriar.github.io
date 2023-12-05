@@ -3,7 +3,6 @@ layout: post
 title:  An Introduction to Classification Using Mislabeled Data
 date: 2020-09-14 21:01:00
 tags: ML Python
-thumbnail: assets/img/9.jpg
 ---
 
 The performance of any classifier, or for that matter any machine learning task, depends crucially on the quality of the available data. Data quality in turn depends on several factors- for example accuracy of measurements (i.e. noise), presence of important information, absence of redundant information, how much collected samples actually represent the population, etc. In this article we will focus on noise, in particular label noise- the scenario when a sample can have exactly one label (or class), and a subset of samples in the dataset are mislabeled. We will look at what happens to classification performance when there’s label noise, how exactly it hampers the learning process of classifiers, and what we can do about it.
