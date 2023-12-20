@@ -26,7 +26,7 @@ It's not looking great, but at this point, I found a feature that cuRAND doesn't
 
 {% include figure.html path="assets/img/rocm/py.png" class="img-fluid rounded z-depth-1 mx-auto d-block" caption="Figure 1: rocRAND's Python API."%}
 
-That's it! That's the entirety of the Python API documentation – and no, those headers aren’t clickable. [This is it](https://rocm.docs.amd.com/projects/rocRAND/en/latest/python_api.html)!
+That's it! That's the entirety of the Python API documentation – and no, those headers aren’t clickable. [This is it](https://rocm.docs.amd.com/projects/rocRAND/en/latest/python_api.html)! (Update: the doc page has since been updated.)
 
 So, that was a bonus feature. What about the C++ API documentation? well, it exists, but it's hardly any different. The API reference is almost entirely just a dump of function docstrings, with same comment copy/pasted for all the functions. And this mindless copy/pasting has predictable result- you'll find, for example, the "documentation" mention 64 bit int return type for a function while it actually returns 32-bit. 
 
