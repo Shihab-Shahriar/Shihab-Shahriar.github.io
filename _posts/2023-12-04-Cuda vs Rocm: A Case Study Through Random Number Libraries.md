@@ -34,7 +34,7 @@ The Programming Guide again starts (and ends) with the list of generators, with 
 
 {% include figure.html path="assets/img/rocm/Spiderman.png" class="img-fluid rounded z-depth-1 mx-auto d-block" caption="" style="max-width: 50%;" %}
 
-They are all the same! Of course, they don't say that directly, it's another little thing for you to figure out. (well, technically I can't say "all" are same, becuase they don't mention the fifth one anywhere else in the page.)
+They are all the same! Of course, they don't say that directly, it's another little thing for you to figure out. (well, technically I can't say "all" are same, because they don't mention the fifth one anywhere else in the page.)
 
 Frankly, this isn't just bad documentation; this is horrendous. There is no attempt anywhere to introduce or explain anything: just data dumps and lists. You get the sense, once again, that this "documentation work" was another box for someone to tick, without any consideration paid to a potential user of the software. 
 
