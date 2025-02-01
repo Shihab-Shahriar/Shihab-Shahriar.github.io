@@ -27,4 +27,4 @@ Some of my online presences:
 
 You can reach me at: khanmd at msu.edu
 
-**I'm currently open to internship opportunities for Summer, 2024.**
+**I'm currently open to internship opportunities for Summer, 2025.**
