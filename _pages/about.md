@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a PhD student in the [Department of Computer Science and Engineering](https://cse.msu.edu/) at [Michigan State University](https://msu.edu/). I am advised by [Dr. Hasan Metin Aktulga](https://www.cse.msu.edu/~hma/Research.php). My research interests include high performance computing, parallel algorithms, and General-Purpose Computation on GPUs.
+I am a PhD candidate in the [Department of Computer Science and Engineering](https://cse.msu.edu/) at [Michigan State University](https://msu.edu/). I am advised by [Dr. Hasan Metin Aktulga](https://www.cse.msu.edu/~hma/Research.php). My research interests include high performance computing, parallel algorithms, and General-Purpose Computation on GPUs.
 
 Some of my online presences:
 + [Stackoverflow](https://stackoverflow.com/u/4553309/)
@@ -27,4 +27,4 @@ Some of my online presences:
 
 You can reach me at: khanmd at msu.edu
 
-**I'm currently open to internship opportunities for Summer, 2025.**
+
